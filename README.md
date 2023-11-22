@@ -1,12 +1,12 @@
-# Picazo robot app
+## Picazo robot app
 
 ## Overview
 
 
-**# Picazo robot app** is an innovative app designed to command a robotic painter, offering automated painting solutions with precision and customization. This intuitive app enables users to configure, control, and monitor the painting process directly from their smartphones.
+**Picazo robot app** is an innovative app designed to command a robotic painter, offering automated painting solutions with precision and customization. This intuitive app enables users to configure, control, and monitor the painting process directly from their smartphones.
 
 <a href="https://i.imgur.com/APBsjs7.jpg">
-  <img src="https://i.imgur.com/APBsjs7.jpg" width="70%" alt="PainterBot Home Screen">
+  <img src="https://i.imgur.com/APBsjs7.jpg" width="45%" alt="PainterBot Home Screen">
 </a>
 
 ---
@@ -17,14 +17,14 @@
 The **Home Screen** is your PainterBot's welcome mat. It offers quick access to all app functionalities, including painting status, configuration, and helpful tips.
 
 <a href="https://i.imgur.com/APBsjs7.jpg">
-  <img src="https://i.imgur.com/APBsjs7.jpg" width="70%" alt="PainterBot Home">
+  <img src="https://i.imgur.com/APBsjs7.jpg" width="45%" alt="PainterBot Home">
 </a>
 
 ### :art: Painting Configuration Screen
 Set the stage for your masterpiece in the **Painting Configuration Screen**. Enter the dimensions of the painting surface and the distance of the robot from the wall to ensure your project is picture-perfect.
 
 <a href="https://i.imgur.com/xgnrgz6.jpg">
-  <img src="https://i.imgur.com/xgnrgz6.jpg" width="70%" alt="Configuration Screen">
+  <img src="https://i.imgur.com/xgnrgz6.jpg" width="45%" alt="Configuration Screen">
 </a>
 
 ### :control_knobs: Painting Status Control Screen
@@ -34,7 +34,7 @@ Take charge with the **Painting Status Control Screen**. Here you control the pa
 - **:stop_sign: Deactivate Painting**: A safety feature that allows you to stop the painting process instantly.
 
 <a href="https://i.imgur.com/ICjcMtf.jpg">
-  <img src="https://i.imgur.com/ICjcMtf.jpg" width="70%" alt="Status Control Screen">
+  <img src="https://i.imgur.com/ICjcMtf.jpg" width="45%" alt="Status Control Screen">
 </a>
 
 ---
@@ -55,7 +55,7 @@ Take charge with the **Painting Status Control Screen**. Here you control the pa
 - Personalize your PainterBot's settings to suit your unique style.
 
 <a href="https://i.imgur.com/FTCpT07.jpg">
-  <img src="https://i.imgur.com/FTCpT07.jpg" width="70%" alt="Tips Screen">
+  <img src="https://i.imgur.com/FTCpT07.jpg" width="45%" alt="Tips Screen">
 </a>
 
 ---
