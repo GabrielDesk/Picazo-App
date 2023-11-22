@@ -1,13 +1,11 @@
-# Picazo-App
-Picazo Robot App
-
+# PicazoApp
 # PainterBot App
 
 ## Overview
 
 **PainterBot** is an innovative app designed to command a robotic painter, offering automated painting solutions with precision and customization. This intuitive app enables users to configure, control, and monitor the painting process directly from their smartphones.
 
-![PainterBot Home Screen](https://i.imgur.com/APBsjs7.jpg)
+[![PainterBot Home Screen](https://i.imgur.com/APBsjs7.jpg)](https://i.imgur.com/APBsjs7.jpg)
 
 ---
 
@@ -27,7 +25,7 @@ Set the stage for your masterpiece in the **Painting Configuration Screen**. Ent
 Take charge with the **Painting Status Control Screen**. Here you control the paint flow with:
 
 - **:play_or_pause_button: Play/Pause**: Initiate or pause the painting process with a simple tap.
-- **:octagonal_sign: Deactivate Painting**: A safety feature that allows you to stop the painting process instantly.
+- **:stop_sign: Deactivate Painting**: A safety feature that allows you to stop the painting process instantly.
 
 [![Status Control Screen](https://i.imgur.com/ICjcMtf.jpg)](https://i.imgur.com/ICjcMtf.jpg)
 
@@ -56,7 +54,7 @@ Take charge with the **Painting Status Control Screen**. Here you control the pa
 
 Encounter a bump on your creative journey? Our help section is a click away, or reach out to our dedicated customer service team for assistance.
 
-![Connection Modal](https://i.imgur.com/APBsjs7.jpg)
+[![Support Screen](https://i.imgur.com/FTCpT07.jpg)](https://i.imgur.com/FTCpT07.jpg)
 
 ---
 
