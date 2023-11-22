@@ -5,45 +5,59 @@ Picazo Robot App
 
 ## Overview
 
-PainterBot is an innovative app designed to command a robotic painter, providing an automated painting solution with precision and customization. This app enables users to configure, control, and monitor the painting process directly from their smartphones.
+**PainterBot** is an innovative app designed to command a robotic painter, offering automated painting solutions with precision and customization. This intuitive app enables users to configure, control, and monitor the painting process directly from their smartphones.
 
-![PainterBot Home Screen](path_to_home_screen_image)
+![PainterBot Home Screen](https://i.imgur.com/APBsjs7.jpg)
 
-## Features
+---
 
-### :house: Home Screen
-The Home Screen is the gateway to your PainterBot experience. It provides quick access to all app functionalities including painting status, configuration, and tips for optimal usage.
+## :sparkles: Features
 
-![PainterBot Home](path_to_home_feature_image)
+### :house_with_garden: Home Screen
+The **Home Screen** is your PainterBot's welcome mat. It offers quick access to all app functionalities, including painting status, configuration, and helpful tips.
 
-### :gear: Painting Configuration Screen
-This is where the magic starts. The Painting Configuration Screen allows users to set up their painting project by entering the dimensions of the painting surface and the distance of the robot from the wall.
+[![PainterBot Home](https://i.imgur.com/APBsjs7.jpg)](https://i.imgur.com/APBsjs7.jpg)
 
-![Configuration Screen](path_to_configuration_screen_image)
+### :art: Painting Configuration Screen
+Set the stage for your masterpiece in the **Painting Configuration Screen**. Enter the dimensions of the painting surface and the distance of the robot from the wall to ensure your project is picture-perfect.
+
+[![Configuration Screen](https://i.imgur.com/xgnrgz6.jpg)](https://i.imgur.com/xgnrgz6.jpg)
 
 ### :control_knobs: Painting Status Control Screen
-The Painting Status Control Screen is the control center for your painting project. It offers the following controls:
+Take charge with the **Painting Status Control Screen**. Here you control the paint flow with:
 
-- **Play/Pause**: Begin the painting process or pause it if necessary.
-- **Deactivate Painting**: Stop the painting process immediately for safety or other reasons.
+- **:play_or_pause_button: Play/Pause**: Initiate or pause the painting process with a simple tap.
+- **:octagonal_sign: Deactivate Painting**: A safety feature that allows you to stop the painting process instantly.
 
-![Status Control Screen](path_to_status_control_screen_image)
+[![Status Control Screen](https://i.imgur.com/ICjcMtf.jpg)](https://i.imgur.com/ICjcMtf.jpg)
 
-## How to Use
+---
 
-1. **Start on the Home Screen**: Here you'll find an overview of your painting project's status and quick navigation buttons for configuration and tips.
+## :hammer_and_wrench: How to Use
 
-2. **Configure Your Painting**: Navigate to the Painting Configuration Screen to input the dimensions of your painting area and the robot's position.
+1. **Launch from the Home Screen**: Get an at-a-glance view of your project's status with quick taps to deeper functions.
+   
+2. **Enter the Painting Configuration**: Precision is key. Enter your parameters carefully to ensure the PainterBot understands the scope of your project.
+   
+3. **Command Your Painting**: With setup complete, navigate to the control screen to start, pause, or stop your painting. You're in full control.
 
-3. **Control Your Painting**: Once the painting project is set up, use the Painting Status Control Screen to start, pause, or stop the painting.
+---
 
-## Additional Tips
+## :bulb: Tips for Optimal Use
 
-- :bulb: For optimized performance, follow the tips and adjustments provided in the app.
-- :wrench: Personalize your experience by setting preferences for how the robot operates.
+- Follow in-app tips to optimize PainterBot's performance and tailor your experience.
+- Personalize your PainterBot's settings to suit your unique style.
 
-## Support
+[![Tips Screen](https://i.imgur.com/FTCpT07.jpg)](https://i.imgur.com/FTCpT07.jpg)
 
-For any questions or support, please refer to the app's help section or contact our customer service team.
+---
 
-![Support Screen](path_to_support_screen_image)
+## :question: Support
+
+Encounter a bump on your creative journey? Our help section is a click away, or reach out to our dedicated customer service team for assistance.
+
+![Connection Modal](https://i.imgur.com/APBsjs7.jpg)
+
+---
+
+Remember, the path to creativity is at your fingertips with PainterBot. Start your project today!
